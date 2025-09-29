@@ -27,6 +27,28 @@ This portfolio showcases three comprehensive data science projects that demonstr
 I've designed these projects to serve both as educational resources and production-ready analysis tools, incorporating state-of-the-art visualization libraries and custom color palettes that make data exploration both informative and visually engaging.
 
 <div align="center">
+
+  <!-- 🌸 Pastel Highlighted Figures -->
+  <p>
+    <img src="https://img.shields.io/badge/-Pastel%20Highlights-FFE5F1?style=for-the-badge&color=FFE5F1" alt="Pastel Highlight">
+  </p>
+
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_7.png" alt="Figure 7 pastel" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_10.png" alt="Figure 10 pastel" width="420"><br/>
+
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_11.png" alt="Figure 11 pastel" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_12.png" alt="Figure 12 pastel" width="420"><br/>
+
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_14.png" alt="Figure 14 pastel" width="420">
+
+  <p>
+    <img src="https://img.shields.io/badge/-Soft%20Palette%20Series-E5FFE5?style=for-the-badge&color=E5FFE5" alt="Soft Palette Series">
+  </p>
+
+</div>
+
+
+<div align="center">
   
 ![separator](https://img.shields.io/badge/-FFF4E6?style=flat&color=FFF4E6)
 ![separator](https://img.shields.io/badge/-E6E6FA?style=flat&color=E6E6FA)
