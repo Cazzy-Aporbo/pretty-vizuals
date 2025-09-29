@@ -559,6 +559,41 @@ Passionate about transforming complex data into beautiful, actionable insights
 
 </div>
 
+<div align="center">
+
+  <!-- Periodic Table / Analysis Outputs -->
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_41_1.png" alt="Output 41 1" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_53_0.png" alt="Output 53 0" width="420"><br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_99_0.png" alt="Output 99 0" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_26_2.png" alt="Output 26 2" width="420"><br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_52_1.png" alt="Output 52 1" width="420">
+
+  <!-- Figures -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_3.png" alt="Figure 3" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/Figure_5.png" alt="Figure 5" width="420">
+
+  <!-- Disease / Symptom Network -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/disease_symptom_network_clear.png" alt="Disease symptom network" width="800">
+
+  <!-- Heatmaps and Histograms -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/temporal_motifs_heatmap.png" alt="Temporal motifs heatmap" width="420">
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/question_similarity_histogram.png" alt="Question similarity histogram" width="420"><br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/proportion_symptoms_by_system.png" alt="Proportion symptoms by system" width="420">
+
+  <!-- Extra Output (87_0) -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/output_87_0.png" alt="Output 87 0" width="420">
+
+  <!-- PDF (Wine Project) -->
+  <br/>
+  <a href="https://raw.githubusercontent.com/Cazzy-Aporbo/pretty-vizuals/master/Images_created/wine.pdf"><strong>📄 View Wine PDF</strong></a>
+
+</div>
+
+
 ---
 
 ## **License**
